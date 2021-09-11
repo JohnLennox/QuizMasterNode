@@ -1,0 +1,25 @@
+{
+  "name": "QuizMasterNode",
+  "version": "1.0.0",
+  "description": "A Quizzing application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnLennox/QuizMasterNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnLennox/QuizMasterNode/issues"
+  },
+  "homepage": "https://github.com/JohnLennox/QuizMasterNode#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1"
+  }
+}

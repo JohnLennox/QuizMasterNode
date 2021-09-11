@@ -1,0 +1,2 @@
+# QuizMasterNode
+A Quizzing application
